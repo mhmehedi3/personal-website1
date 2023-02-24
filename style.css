@@ -1,0 +1,87 @@
+body{
+    font-family: 'Share', cursive;
+}
+section{
+    height: 550px;
+    padding-bottom: 10px;
+}
+#first-half{
+    margin-top: 10px;
+    padding-top: 50px;
+}
+h1{
+    font-size: 35px;
+    color: rgb(238, 46, 78);
+}
+.text1{
+    font-family: 'Roboto Mono', monospace;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    padding-left: 80px;
+    margin-left: 10px;
+}
+.link{
+    background-image: linear-gradient(90deg,rgb(221, 78, 78),rgb(231, 70, 164));
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 22px;
+    border-radius: 7%;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.image{
+    margin-top: 10px;
+    width: 80%;
+}
+.middle-bg{
+    margin-left: 20px;
+    padding-left: 60px;
+}
+#pic2{
+    margin-left: 30px;
+    padding-left: 40px;
+
+    
+}
+#text2{
+    padding-top: 60px;
+    margin-right: 5px;
+    padding-right: 20px;
+}
+.photos{
+    
+    width: 30%;
+    
+    float:left;
+    justify-items: center;
+    
+  
+  
+}
+
+img{
+    width:90%;
+    
+}
+.bottom-bg{
+    padding-left: 60px;
+    margin-left: 10px;
+}
+.text3{
+    text-align: center;
+    font-size: 30px;
+}
+.last-part{
+    text-align: center;
+    background-color: rgb(211, 55, 128);
+    width: 40%;
+    border: 1px solid black;
+justify-content: center;
+margin: 0px;
+padding: auto;
+
+}
+
